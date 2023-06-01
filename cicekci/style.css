@@ -1,0 +1,30 @@
+body{
+    background-color: chartreuse;
+    background: rgba(0, 128, 0, 0.3);
+    font-family: 'Playfair', serif;
+    font-weight:700;
+    text-align: center;
+    list-style-position: inside;
+}
+
+h1{
+    color:red;
+    background-color:black;
+}
+h2{
+    color:brown;
+}
+h3{
+    color:brown;
+}
+a{
+    color:black;
+}
+.ortala{
+    text-align: center;
+    list-style-position: inside;
+}
+img{
+    max-width: 350px;
+    height:auto;
+}
