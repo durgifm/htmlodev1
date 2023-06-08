@@ -1,0 +1,45 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight:400;
+    text-align: center;
+    list-style-position: inside;
+}
+.renk1{
+    background-color:#7EE5DA;
+    width: 500px;
+	height: 80px;
+    margin: 1px;
+    margin-left: 60px;
+    float: left;
+}
+.renk2{
+    background-color:#70CCC2;
+    width: 330px;
+	height: 80px;
+	margin: 1px;
+    float: left;
+}
+.renk3{
+    background-color:#62B3AA;
+    width: 571px;
+	height: 80px;
+	margin: 1px;
+    float: left;
+}
+p{
+    margin: 1px;
+}
+form.search input {
+    height: 20px;
+    width: 300px;
+    font-size: 16px;
+    font-weight: 500;
+    box-sizing: border-box;
+    padding: 0 15px;
+    flex: 1;
+    outline: 0;
+}
+a{
+    color: blue;
+}
