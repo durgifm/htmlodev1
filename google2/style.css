@@ -1,0 +1,81 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight:400;
+    text-align: center;
+}
+.solustkose{
+    width: 100px;
+    float: left;
+}
+.sagustkose{
+    width: 250px;
+    margin-left: 1270px;
+}
+.google{
+    margin-top: 112px;
+}
+.solaltkose{
+    width: 300px;
+    margin-top: 330px;
+    float: left;
+}
+.sagaltkose{
+    width: 200px;
+    margin-top: 330px;
+    margin-left: 1310px;
+}
+a{
+    text-decoration: none;
+    color: dimgray;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+.buton{
+    border: 2px solid #4285f4;
+    background-color:#4285f4;
+    width: 70px;
+    height: 30px;
+    margin-top: 3px;
+    border-radius: 5px;
+    color: white;
+}
+
+.arama{
+    border: 0.5px solid #dedede;
+    border-radius: 25px;
+    margin-left: 470px;
+    margin-top: 32px;
+	width:580px;
+	height:40px;
+}
+form.search button{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    width: 130px;
+    height: 35px;
+    border: 0.5px solid whitesmoke;
+    border-radius: 5px;
+    border-left: 20px;
+    margin-top: 30px;
+    color:gray;
+}
+form.search button:hover{
+    border: 0.5px solid gray;
+    color:dimgray;
+}
+
+form.search input {
+    text-align: center;
+    border: 1px none;
+    height: 25px;
+    width: 470px;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0 15px;
+    flex: 1;
+    outline: 0;
+}
+
